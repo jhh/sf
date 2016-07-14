@@ -9,3 +9,153 @@ jeff@jeffhutchison.com
 - Set up a basic development environment.
 - We will start forming teams based on your experience and interests.
 - Start you out with a set of tasks to complete - based on your experience these will be learning, experimenting, prototyping or system development tasks.
+
+* Platforms
+
+RoboRio
+
+Jetson
+
+MS Office
+
+Web
+
+* Development Tools
+
+* Atom
+
+Atom is a text editor that's modern, approachable and works on OS X, Windows, or Linux. It can be used for all of our development and has powerful plugins to assist us.
+
+.link https://atom.io
+
+.image hello-world/atom.png 250 _
+
+.image hello-world/atom_logo.png
+
+* Git
+
+By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source.
+
+Git allows a team of people to work together, all using the same files. And it helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
+
+.link https://git-scm.com
+
+.image hello-world/git_hero.png _ 150
+
+* Python
+
+Python is an interpreted, object-oriented, high-level programming language with a  simple, easy to learn syntax. It is used by many organizations you might recognize such as Google and NASA.
+
+Python has powerful bindings to the open-source computer vision library OpenCV which makes especially well-suited for learning, experimentation and prototyping.
+
+  print("Hello, World!")
+
+.link https://www.python.org
+
+.image hello-world/python-logo-master-v3-TM-flattened.png 175 _
+
+* C++
+
+C++ is a general purpose programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. It is immensely popular, particularly for applications that require speed and/or access to some low-level features.
+
+We use C++ for the production code running in our robot control and OpenCV vision systems.
+
+  #include <iostream>
+
+  int main()
+  {
+    std::cout << "hello world!\n";
+  }
+
+.link https://isocpp.org
+
+.image hello-world/c-logo.png _ 100
+
+* Microsoft Office Programming
+
+Visual Studio Tools for Office enables you to create document-level customizations and application-level add-ins by using Visual Basic and Visual C#.
+
+We use Office Programming for our Scouting application.
+
+  public class Hello
+  {
+     public static void Main()
+     {
+        System.Console.WriteLine("Hello, World!");
+     }
+  }
+
+.link http://dev.office.com
+
+.image hello-world/Microsoft_Office_2013_logo_and_wordmark.png 125 _
+
+* OpenCV
+
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+
+The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects...
+
+.link http://opencv.org
+
+.image hello-world/OpenCV_Logo.png 200 _
+
+* Project Teams
+
+* Project Teams
+
+We will start forming teams based on your experience and interests.
+
+All of our teams will be working on interesting and challenging problems.
+
+Bear with us as we get organized.
+
+* Available Project Teams
+
+*Robot* *Control* (RoboRio)
+
+- Drive
+- Game
+
+*Tools* (RoboRio)
+
+- Telemetry
+- Robot Subsystem Control
+
+*Computer* *Vision* (OpenCV and Jetson)
+
+- Drive Station Camera
+- Game Vision
+
+* Available Project Teams (cont.)
+
+*Drive* *Station* *Dashboard*
+
+- Telemetry
+
+*Scouting*
+
+- User Interface
+- Data Analytics
+
+*Web*
+
+- Stryke Force
+- Tools Interfaces
+- Documentation
+
+* Tasks
+
+* Tasks
+
+If you are just starting out with programming you can start your journey with Python.
+
+- Do the _Python_ _with_ _Turtles_ tutorial on [[https://trinket.io]]
+- Level up your Python on [[https://checkio.org][CheckiO]]
+
+For experienced programmers new to the team:
+
+- Get familiar with [[https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html][Python and OpenCV]]
+- Become fluent in C++; look at [[http://exercism.io]] for exercises
+- Learn Git [[https://try.github.io]]
+
+For returning software team members we will start on the task list from last season.
