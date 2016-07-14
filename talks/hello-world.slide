@@ -99,6 +99,14 @@ The library has more than 2500 optimized algorithms, which includes a comprehens
 
 .image hello-world/OpenCV_Logo.png 200 _
 
+* WPILib
+
+The WPI Robotics library (WPILib) is a set of software classes that interfaces with the hardware and software in your FRC robot’s control system. There are classes to handle sensors, motor speed controllers, the driver station, and a number of other utility functions such as timing and field management. In addition, WPILib supports many commonly used sensors that are not in the kit, such as ultrasonic rangefinders.
+
+.link https://wpilib.screenstepslive.com/s/4485/m/13810 FRC C++ Programming
+
+.image hello-world/wpilib.png
+
 * Project Teams
 
 * Project Teams
