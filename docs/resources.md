@@ -4,6 +4,7 @@
 
 - [Trinket.io](https://trinket.io) : An easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
 - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/#getting-started) : This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+- [CheckiO](https://checkio.org) : A game where you code in Python.
 - [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) : The Python community is amazing at sharing detailed resources and helping beginners learn to program with the language. There are so many resources out there though that it can be difficult to know how to find them. This page aggregates the best general Python resources with descriptions of what they provide to readers.
 - [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python.
 
