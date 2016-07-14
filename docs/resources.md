@@ -8,14 +8,16 @@
 - [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python.
 
 ## C++
-- [Learn C++](http://www.learncpp.com/) : LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
--
+
+- [Learn C++](http://www.learncpp.com/) : LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you've had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
+
 - [FRC C++ Programming](https://wpilib.screenstepslive.com/s/4485/m/13810)
+
 - [WPILibC++ Documentation](http://first.wpi.edu/FRC/roborio/release/docs/cpp/index.html) : Documentation for library code.
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) : C++ is the main development language used by many of Google's open-source projects. As every C++ programmer knows, the language has many powerful features, but this power brings with it complexity, which in turn can make code more bug-prone and harder to read and maintain.
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) : The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 - [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) : ClangFormat describes a set of tools that are built on top of LibFormat. It can support your workflow in a variety of ways including a standalone tool and editor integrations.
-- [A Tour of C++](https://www.amazon.com/Tour-C--Depth-ebook/dp/B00F8CWGOS/ref=sr_1_1?ie=UTF8&qid=1468265595&sr=8-1&keywords=a+tour+of+c%2B%2B) : This book is a brief (180 pg.)  tour of the C++ Programming language and its standard library for experienced programmers.
+- [A Tour of C++](https://www.amazon.com/Tour-C--Depth-ebook/dp/B00F8CWGOS/ref=sr_1_1?ie=UTF8&qid=1468265595&sr=8-1&keywords=a+tour+of+c%2B%2B) : This book is a brief (180 pg.) tour of the C++ Programming language and its standard library for experienced programmers.
 - [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840/ref=sr_1_2?ie=UTF8&qid=1468265564&sr=8-2&keywords=the+c+programming+language+4th+edition) : This book is an exhaustive description of the C++ Programming language, its standard library, and fundamental techniques for experienced programmers
 
 ## Robotics
