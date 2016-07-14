@@ -3,11 +3,9 @@
 ## Python
 
 - [Trinket.io](https://trinket.io) : An easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
-- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python.
-- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) :
-- [Python Practice Book](http://anandology.com/python-practice-book/index.html) : A book of Python exercises to help you learn the basic language syntax.
-- [Learn Python in Y Minutes](http://learnxinyminutes.com/docs/python/) :  The guide is especially useful if you're coming in with previous software development experience and want to quickly grasp how the language is structured.
+- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/#getting-started) : This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) : The Python community is amazing at sharing detailed resources and helping beginners learn to program with the language. There are so many resources out there though that it can be difficult to know how to find them. This page aggregates the best general Python resources with descriptions of what they provide to readers.
+- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python.
 
 ## C++
 - [Learn C++](http://www.learncpp.com/) : LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
