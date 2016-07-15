@@ -26,7 +26,11 @@ The proposed layout is something like (names are for illustration, TBD):
 - We will use the `master` branch for production releases and the `dev` branch for development.
 - Whenever practical, small `feature` branches should be used and merged to development when done.
 - The repo manager is responsible for merging tested and reviewed releases from the `dev` branch to the `master` branch.
-- Releases will be tagged using [Semantic Versioning 2.0][semver].
+- Releases will be tagged using a modified version of [Semantic Versioning 2.0][semver]. Our version format will be `YEAR.MAJOR.MINOR.PATCH`, for example 2017.1.1.12.
+  - YEAR: the current competition year.
+  - MAJOR: increment version when we make incompatible API changes.
+  - MINOR: increment version when we add functionality in a backwards-compatible manner.
+  - PATCH: increment version when we make backwards-compatible bug fixes.
 - 3rd-party code has a standard location in the directory structure but is not uploaded to repo.
 
 [semver]: http://semver.org/
