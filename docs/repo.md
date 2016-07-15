@@ -20,6 +20,7 @@ The proposed layout is something like (names are for illustration, TBD):
       |_ docs (clone of our public docs repo on github)
         |_ docs
         |_ talks
+      |_ wpilib (if we have to fork for a bug)
 
 - We use a single repository for each group of related projects.
 - We will use the `master` branch for production releases and the `dev` branch for development.
