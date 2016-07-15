@@ -78,3 +78,4 @@ The library has more than 2500 optimized algorithms, which includes a comprehens
 
 - [Atom](https://atom.io) : Atom is a text editor that's modern, approachable and works on OS X, Windows, or Linux. It can be used for all of our development and has powerful plugins to assist us.
 - [Try Git Tutorial](https://try.github.io/) : Got 15 minutes and want to learn Git?
+- [Semantic Versioning](http://semver.org/) : A simple set of rules and requirements that dictate how version numbers are assigned and incremented.
