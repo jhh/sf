@@ -3,10 +3,10 @@
 ## Python
 
 - [Trinket.io](https://trinket.io) : An easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
-- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/#getting-started) : This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python. It has online exercises that are clear and easy to follow.
 - [CheckiO](https://checkio.org) : A game where you code in Python.
+- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/#getting-started) : This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) : The Python community is amazing at sharing detailed resources and helping beginners learn to program with the language. There are so many resources out there though that it can be difficult to know how to find them. This page aggregates the best general Python resources with descriptions of what they provide to readers.
-- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python.
 
 ## C++
 
@@ -37,3 +37,7 @@
 
 - [Introduction to NI Linux Real-Time](http://www.ni.com/white-paper/14627/en/) : National Instruments has developed a Linux-based real-time OS (RTOS), called NI Linux Real-Time, through years of R&D development, collaboration with open-source community, and with contributions from partners.
 - [Under the Hood of NI Linux Real-Time](http://www.ni.com/white-paper/14626/en/) : The NI LabVIEW Real-Time Module supports the NI Linux Real-Time OS, available on select NI hardware. In this article, learn about specific new features and advanced topics to get the most out of NI Linux Real-Time for your application.
+
+## Git
+
+- [Try Git Tutorial](https://try.github.io/) : Got 15 minutes and want to learn Git?
