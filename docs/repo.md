@@ -12,9 +12,10 @@ The proposed layout is something like (names are for illustration, TBD):
           |_ control
           |_ vision
           |_ camera
-          |_shared
-          |_vendor (location for 3rd-party code)
-            |_wpilib (these are not committed)
+          |_ shared
+          |_ scripts
+          |_ vendor (location for 3rd-party code)
+            |_ wpilib (these are not committed)
       |_ website
         |_...
       |_ docs (clone of our public docs repo on github)
