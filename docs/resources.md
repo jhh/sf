@@ -18,6 +18,7 @@ Python has powerful bindings to the open-source computer vision library OpenCV w
 
 ### Using Python
 
+- [Python 3 Documentation](https://docs.python.org/3/) : This is the official Python documentation.
 - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/#getting-started) : This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) : The Python community is amazing at sharing detailed resources and helping beginners learn to program with the language. There are so many resources out there though that it can be difficult to know how to find them. This page aggregates the best general Python resources with descriptions of what they provide to readers.
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) - Known as “PEP-8”, this is the official style guide for Python code.
