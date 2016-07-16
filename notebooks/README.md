@@ -4,7 +4,7 @@ These are [Jupyter] notebooks containing Python and OpenCV examples. The Jupyter
 
 ## Notebooks
 
-The links below will display a read-only copy of the notebook.
+The links below will display a read-only copy of the notebook. Clone the repository and run Jupyter locally in this directory to experiment with them.
 
 - [Random Image](Random%20Image.ipynb): displays a random image from the [sample directory](RealFullField/).
 
