@@ -4,6 +4,8 @@ These are [Jupyter] notebooks containing Python and OpenCV examples. The Jupyter
 
 ## Notebooks
 
-- Random Image: displays a random image from the [sample directory](RealFullField/).
+The links below will display a read-only copy of the notebook.
+
+- [Random Image](Random%20Image.ipynb): displays a random image from the [sample directory](RealFullField/).
 
 [jupyter]: http://jupyter.org
