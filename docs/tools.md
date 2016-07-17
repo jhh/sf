@@ -22,7 +22,7 @@ See the [Downloading Python](https://wiki.python.org/moin/BeginnersGuide/Downloa
 
 #### Windows
 
-See the OpenCV [instructions](http://docs.opencv.org/2.4/doc/tutorials/introduction/windows_install/windows_install.html#windows-install-prebuild). We haven't tested this method yet.
+- [OpenCV Windows Installation](http://docs.opencv.org/3.0-beta/doc/tutorials/introduction/windows_install/windows_install.html) : The description here was tested on Windows 7 SP1. Nevertheless, it should also work on any other relatively modern version of Windows OS.
 
 #### Mac OS X
 
