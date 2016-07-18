@@ -48,7 +48,7 @@ The procedure here was tested on Windows 10. Nevertheless, it should also work o
   23. At the command line, check the installation:
 
     ```
-     python
+     (cv) C:\Users\Jeff\Documents\GitHub\sf\examples\python [master ≡] python
      Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
      Type "help", "copyright", "credits" or "license" for more information.
      >>> import cv2
