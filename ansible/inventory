@@ -1,1 +1,7 @@
+#
+# Inventory file for Stryke Force development workstations
+# See: http://docs.ansible.com/ansible/intro_inventory.html
+#
+
+[workstations]
 helium        ansible_host=helium.local.    ansible_user=root

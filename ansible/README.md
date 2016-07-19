@@ -20,5 +20,5 @@ These instructions are used for our student loaner development laptops. We insta
 
 ## Bootstrapping Ansible
 
-1. Add new host to [`inventory`](http://docs.ansible.com/ansible/intro_inventory.html) file.
+1. Add new host to [`inventory`](inventory) file.
 2. In `sf/ansible`, run `ansible-playbook site.yml`
