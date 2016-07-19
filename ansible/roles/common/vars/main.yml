@@ -1,0 +1,9 @@
+---
+# file: roles/common/vars/main.yml
+
+common:
+  extras:
+    - tree
+    - htop
+    - git
+    - python3-pip

@@ -1,2 +1,3 @@
 /examples/python/gray_python.jpg
 /notebooks/.ipynb_checkpoints
+/ansible/*.retry
