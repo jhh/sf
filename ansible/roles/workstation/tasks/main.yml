@@ -55,5 +55,9 @@
     chdir: /usr/local/src/opencv/build
   when: git_status|changed
 
+- name: refresh dynamic linker run-time bindings
+  command: ldconfig
+  when: git_status|changed
+
 - name: install Atom deb
   apt: deb={{ atom.deb }}
