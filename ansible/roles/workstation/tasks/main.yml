@@ -7,6 +7,9 @@
     state: latest
   with_items: "{{ workstation.python }}"
 
+- name: install jupyter
+  pip: name=jupyter executable=pip3
+
 - name: install dev tool packages
   apt:
     name: "{{ item }}"
