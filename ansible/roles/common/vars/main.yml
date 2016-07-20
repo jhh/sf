@@ -5,3 +5,4 @@ common:
   extras:
     - tree
     - htop
+    - gnome-tweak-tool
