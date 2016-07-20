@@ -14,3 +14,4 @@ oxygen        ansible_host=oxygen.local.     ansible_user=root
 fluorine      ansible_host=fluorine.local.   ansible_user=root
 neon          ansible_host=neon.local.       ansible_user=root
 sodium        ansible_host=sodium.local.     ansible_user=root
+xenon         ansible_host=xenon.local.      ansible_user=root
