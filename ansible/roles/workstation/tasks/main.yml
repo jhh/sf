@@ -45,3 +45,6 @@
   args:
     chdir: /usr/local/src/opencv/build
   when: git_status|changed
+
+- name: install Atom deb
+  apt: deb={{ atom.deb }}

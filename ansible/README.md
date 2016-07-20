@@ -1,6 +1,6 @@
 # Configuring Development Workstations
 
-These instructions are used for our student loaner development laptops. We install [Ubuntu 16.04 LTS](http://www.ubuntu.com/desktop).
+These instructions are used for our student loaner development laptops. We install [Ubuntu 16.04 LTS](http://www.ubuntu.com/desktop) and configure using [Ansible](http://docs.ansible.com/).
 
 ## Installation
 
@@ -21,4 +21,6 @@ These instructions are used for our student loaner development laptops. We insta
 ## Bootstrapping Ansible
 
 1. Add new host to [`inventory`](inventory) file.
-2. In `sf/ansible`, run `ansible-playbook site.yml`
+2. Ping new host with `ansible -i inventory -m ping <host>`.
+3. In `sf/ansible`, run `ansible-playbook -i inventory site.yml`
+4. Optionally, to run the playbook on a single host, run `ansible-playbook -i inventory site.yml -l <host>`.

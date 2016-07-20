@@ -4,4 +4,13 @@
 #
 
 [workstations]
-helium        ansible_host=helium.local.    ansible_user=root
+helium        ansible_host=helium.local.     ansible_user=root
+lithium       ansible_host=lithium.local.    ansible_user=root
+beryllium     ansible_host=beryllium.local.  ansible_user=root
+boron         ansible_host=boron.local.      ansible_user=root
+carbon        ansible_host=carbon.local.     ansible_user=root
+nitrogen      ansible_host=nitrogen.local.   ansible_user=root
+oxygen        ansible_host=oxygen.local.     ansible_user=root
+fluorine      ansible_host=fluorine.local.   ansible_user=root
+neon          ansible_host=neon.local.       ansible_user=root
+sodium        ansible_host=sodium.local.     ansible_user=root
