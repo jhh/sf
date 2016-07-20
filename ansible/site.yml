@@ -1,7 +1,10 @@
 ---
 # file: site.yml
 
-# common role for everyone
 - hosts: all
   roles:
     - common
+
+- hosts: workstations
+  roles:
+    - workstation
