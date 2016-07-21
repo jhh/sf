@@ -8,3 +8,4 @@
 - hosts: workstations
   roles:
     - workstation
+    - golang

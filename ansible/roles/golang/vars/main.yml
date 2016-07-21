@@ -1,0 +1,6 @@
+---
+golang:
+  tarball: https://storage.googleapis.com/golang/go1.6.3.linux-amd64.tar.gz
+  sha256: cdde5e08530c0579255d6153b08fdb3b8e47caabbe717bc7bcd7561275a87aeb
+  dest: /usr/local
+  target_version: go version go1.6.3 linux/amd64
