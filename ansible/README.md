@@ -1,6 +1,6 @@
 # Configuring Development Workstations
 
-These instructions are used for our student loaner development laptops. We install [Ubuntu 16.04 LTS](http://www.ubuntu.com/desktop) and configure using [Ansible](http://docs.ansible.com/).
+These instructions are used for our student loaner development laptops. We install [Ubuntu 16.04 LTS](http://www.ubuntu.com/desktop) and configure using [Ansible](http://docs.ansible.com/). This [file](roles/workstation/vars/main.yml) gives a good idea of what we currently install.
 
 ## Installation
 
