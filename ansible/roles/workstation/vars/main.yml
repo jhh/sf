@@ -37,6 +37,13 @@ workstation:
     - pkg-config
     - doxygen
     - gfortran
+    - clang
+    - clang-format
+    - clang-tidy
+    - lldb
+    - ruby
   cuda:
     - nvidia-cuda-dev
     - nvidia-cuda-toolkit
+  gems:
+    - gist

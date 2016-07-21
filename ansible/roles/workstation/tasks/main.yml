@@ -15,6 +15,14 @@
     name: "{{ item }}"
     state: latest
   with_items: "{{ workstation.tools }}"
+  tags: tools
+
+- name: install dev tool gems
+  gem:
+    name: "{{ item }}"
+    state: latest
+  with_items: "{{ workstation.gems }}"
+  tags: gems
 
 - name: install cuda packages
   apt:
