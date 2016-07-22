@@ -30,6 +30,7 @@ workstation:
     - python3-numpy
     - python3-virtualenv
     - virtualenvwrapper
+    - python3-matplotlib
   tools:
     - git
     - build-essential
