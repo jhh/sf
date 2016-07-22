@@ -2,8 +2,8 @@
 
 ## Documentation
 
+- [Stryke Force Developers Guide](docs/resources.md) - Need help getting started? Look here first. Links to useful resources for installing, learning and running our tools.
 - [Development Environment Installation Guide](docs/tools.md) - Instructions for installing our development tools.
-- [Resource Guide](docs/resources.md) - Links to useful resources for installing, learning and running our tools.
 
 ## Talks
 

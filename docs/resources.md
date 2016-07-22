@@ -1,8 +1,8 @@
-# Resources
+# Stryke Force Developers Guide
 
 ## Python
 
-Python is an interpreted, object-oriented, high-level programming language with a simple, easy to learn syntax. It is used by many organizations you might recognize such as Google and NASA.
+[Python](https://www.python.org/about/) is an interpreted, object-oriented, high-level programming language with a simple, easy to learn syntax. It is used by many organizations you might recognize such as Google, Yahoo, Dropbox and NASA.
 
 Python has powerful bindings to the open-source computer vision library OpenCV which makes especially well-suited for learning, experimentation and prototyping.
 
@@ -10,13 +10,15 @@ Best of all, the [RobotPy](https://robotpy.github.io/about/) community is dedica
 
 ### Installing Python
 
+- Stryke Force Development Loaner Laptop : Ask a mentor about using one of our pre-configured laptops. A great option!
 - [Stryke Force Installation Guide](tools.md) : This provides instructions for installing Python with OpenCV.
 
 ### Learning Python
 
-- [Trinket.io](https://trinket.io) : An easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
-- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python. It has online exercises that are clear and easy to follow.
-- [CheckiO](https://checkio.org) : A game where you code in Python.
+- [Trinket.io Hour of Python](https://hourofpython.com) : This set of tutorials is a quick and easy introduction to Python and an easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
+- [Codecademy Python](https://www.codecademy.com/learn/python) : A really good website for learning Python and comes recommended by Stryke Force students.
+- [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python and is an alternative to Codecademy. It has online exercises that are clear and easy to follow.
+- [CheckiO](https://checkio.org) : A popular programming game where you code in Python. This site provides a huge number of fun problems to solve to increase your understanding of programming but they can by tricky until you have a good grasp of basic Python. Start with one of the tutorials above.
 
 ### Using Python
 
