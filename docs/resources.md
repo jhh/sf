@@ -2,7 +2,7 @@
 
 ## Python
 
-[Python](https://www.python.org/about/) is an interpreted, object-oriented, high-level programming language with a simple, easy to learn syntax. It is used by many organizations you might recognize such as Google, Yahoo, Dropbox and NASA.
+[Python](https://www.python.org/about/) is an interpreted, object-oriented, high-level programming language with a simple, easy to learn syntax. It is used by organizations such as Google, Yahoo, Dropbox and NASA.
 
 Python has powerful bindings to the open-source computer vision library OpenCV which makes especially well-suited for learning, experimentation and prototyping.
 
