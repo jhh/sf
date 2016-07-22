@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 #Read Image
-img = cv2.imread('python.jpg')
+img = cv2.imread('images/python.jpg')
 #Display Image
 cv2.imshow('image',img)
 cv2.waitKey(0)
