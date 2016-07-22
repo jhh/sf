@@ -16,7 +16,7 @@ Best of all, the [RobotPy](https://robotpy.github.io/about/) community is dedica
 ### Learning Python
 
 - [Trinket.io Hour of Python](https://hourofpython.com) : This set of tutorials is a quick and easy introduction to Python and an easy way to run Python in the browser. It includes visual introduction to code using the Python programming language and Turtles.
-- [Codecademy Python](https://www.codecademy.com/learn/python) : A really good website for learning Python and comes recommended by Stryke Force students.
+- [Codecademy Python](https://www.codecademy.com/learn/python) : A popular website for learning Python that you can start with or jump into after Trinket.io. Recommended by Stryke Force students.
 - [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) : This website teaches computer programming using Python and is an alternative to Codecademy. It has online exercises that are clear and easy to follow.
 - [CheckiO](https://checkio.org) : A popular programming game where you code in Python. This site provides a huge number of fun problems to solve to increase your understanding of programming but they can by tricky until you have a good grasp of basic Python. Start with one of the tutorials above.
 
