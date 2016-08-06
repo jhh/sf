@@ -9,7 +9,7 @@
 
 ## Talks
 
-- [Hello, World!](http://go-talks.appspot.com/github.com/jhh/sf/talks/hello-world.slide)
+- Moved to https://github.com/strykeforce/talks
 
 ## Examples
 
