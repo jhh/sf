@@ -1,8 +1,0 @@
----
-# file: roles/common/vars/main.yml
-
-common:
-  extras:
-    - tree
-    - htop
-    - gnome-tweak-tool
