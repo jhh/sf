@@ -1,5 +1,7 @@
 # Stryke Force Software Team
 
+**Note:** This repository is being migrated to its new home at https://github.com/strykeforce. Look there first.
+
 ## Documentation
 
 - [Stryke Force Developers Guide](docs/resources.md) - Need help getting started? Look here first. Links to useful resources for installing, learning and running our tools.
