@@ -12,5 +12,4 @@
 
 ## Examples
 
-- [Python and OpenCV Notebooks](notebooks) - these are Jupyter notebooks containing Python and OpenCV examples.
-- [Code Examples](examples)
+- Moved to https://github.com/strykeforce/vision
